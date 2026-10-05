@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.env
+checkpoints/
+landing/
+*.log
+.vscode/
+hadoop/
+.pytest_cache/
+.ruff_cache/
